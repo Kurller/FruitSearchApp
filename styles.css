@@ -28,6 +28,7 @@ body {
   max-height: 150px;
   overflow-y: auto;
 }
+
 .result-item {
   padding: 5px;
   border-bottom: 1px solid #ddd;
